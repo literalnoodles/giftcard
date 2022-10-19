@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #fdbf00;
+    background: url("background.jpg");
 }
 
 .card {
